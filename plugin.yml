@@ -1,0 +1,8 @@
+name: ItemSign
+authors:
+  - benjamin.
+  - BedrockPlugins
+version: 1.0
+api: 3.2.0
+main: BedrockPlugins\ItemSign\ItemSign
+description: Allows you to add a signature to an item

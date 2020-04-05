@@ -1,0 +1,6 @@
+maxlength: 20
+allowcolor: true
+#Message which displays the player who signed the item (set to 'null' if you want to disable)
+signmessage: "§7Item signed by {player}"
+#Default color for the signature
+signcolor: "§7"
